@@ -1,5 +1,5 @@
 {
-  "name": "@aurcl/frontend-component-footer",
+  "name": "@uarcl/frontend-component-footer",
   "version": "11.1.0",
   "description": "Footer component for use when building Open edX frontend applications",
   "main": "dist/index.js",
