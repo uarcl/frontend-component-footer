@@ -63,7 +63,7 @@ class SiteFooter extends React.Component {
             aria-label={intl.formatMessage(messages['footer.logo.ariaLabel'])}
           >
             <img
-              style={{ maxHeight: 45 }}
+              style={{ maxHeight: 80 }}
               src={logo || config.LOGO_TRADEMARK_URL}
               alt={intl.formatMessage(messages['footer.logo.altText'])}
             />
