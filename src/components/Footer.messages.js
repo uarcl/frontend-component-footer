@@ -151,6 +151,16 @@ const messages = defineMessages({
     defaultMessage: 'Page Footer',
     description: 'aria-label for the footer component',
   },
+  'footer.contact': {
+    id: 'footer.contact',
+    defaultMessage: 'Contact',
+    description: 'contact label',
+  },
+  'footer.help': {
+    id: 'footer.help',
+    defaultMessage: 'Help',
+    description: 'help label',
+  },
 });
 
 export default messages;

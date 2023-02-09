@@ -28,5 +28,7 @@
   "footer.mobileApp.google": "Download the edX mobile app from Google Play",
   "footer.logo.altText": "Powered by Open edX",
   "footer.logo.ariaLabel": "edX Home",
-  "footer.ariaLabel": "Page Footer"
+  "footer.ariaLabel": "Page Footer",
+  "footer.contact": "Contacto",
+  "footer.help": "Ayuda"
 }
