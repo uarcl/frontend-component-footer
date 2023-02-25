@@ -44,7 +44,7 @@ class SiteFooter extends React.Component {
 
     const { config } = this.context;
     return (
-      <footer role="contentinfo" className="footer d-flex px-2 uar-footer align-items-center py-2 bg-primary justify-content-between">
+      <footer role="contentinfo" className="footer d-flex px-2 uar-footer align-items-center bg-primary justify-content-between">
         <div className="container-xl my-4">
           <div className="d-flex flex-column flex-md-row justify-content-between">
             <div className="d-flex flex-column">
